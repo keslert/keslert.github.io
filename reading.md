@@ -4,7 +4,8 @@ description: "My sparse written word."
 ---
 
 <div class="center constrained-width pa3 pb5">
-  <h1>Reading</h1>
+  <h1 class="mb0">Reading</h1>
+  <p class="f5 mt0 silver">Rated on a scale 7-point scale where 1=Awful and 7=Harry Potter</p>
 
   <h2>2017</h2>
   <div class="ph2">
