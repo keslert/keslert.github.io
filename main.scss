@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Our variables
+$base-font-family: "Open Sans", sans-serif;
+$base-font-weight: 400;
+$secondary-font-family: "Lora", sans-serif;
+
+$text-color: #404040;
+$background-color: #fff;
+$link-color: #04c6c6;
+$brand-primary: #04c6c6;
+$white-color: #fff;
+
+$grey-color: #828282;
+$grey-color-light: #eaeaea;
+$grey-color-dark:  darken($grey-color, 25%);
+
+
+.measure-wide {
+  max-width: 40em;
+}
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+"base",
+"code",
+"card",
+"posts",
+"reading"
+;

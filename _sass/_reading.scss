@@ -1,0 +1,21 @@
+.book .badge {
+  color: white;
+  font-size: 10px;
+  background: $text-color;
+  border-radius: 999px;
+  padding: 4px 6px;
+  display: inline-block;
+  line-height: 10px;
+  position: relative;
+  top: -2px;
+}
+
+.book.condensed .thoughts {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 1s;
+}
+
+.book.condensed:hover .thoughts {
+  max-height: 500px;
+}

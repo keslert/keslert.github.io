@@ -1,0 +1,34 @@
+DSG:
+  name: DSG (in process)
+  img: dsg.jpg
+  description: Design System Generator. Making use of patterns, components and style constraints.
+  website: https://designbot-1c899.firebaseapp.com/
+  github: https://github.com/keslert/designbot
+
+Slideback:
+  name: Slideback
+  img: slideback.jpg
+  github: https://github.com/keslert/Slideback/
+  description: Chrome extension that replays a Google Slide doc's action history.
+
+Variation:
+  name: Variation
+  img: variation.jpg
+  video: https://www.youtube.com/watch?v=EERQCyWsnDQ
+  website: https://variation.herokuapp.com/app
+  description: "A web app to design social graphics leveraging a person's ability to recognize good design rather than create it."
+
+shiftio:
+  name: ShiftIO
+  img: shiftio.jpg
+  video: https://www.youtube.com/watch?v=lCnh_pKSSwA
+  paper: http://shape.stanford.edu/research/shiftIO/shiftIO.pdf
+  description: Reconfigurable Tactile Elements for Dynamic Affordances and Mobile Interaction
+
+haptic-edge-display:
+  name: Haptic Edge Display
+  img: haptic-edge-display.jpg
+  video: https://www.youtube.com/watch?v=LKHYFLRiF28
+  paper: http://tmg-trackr.media.mit.edu/publishedmedia/Papers/614-Haptic%20Edge%20Display%20for/Published/PDF
+  description: Novel input/output techniques for mobile devices.
+

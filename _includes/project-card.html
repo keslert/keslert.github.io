@@ -1,0 +1,42 @@
+<div class="card br2 overflow-hidden">
+  {% if include.project.img %}
+    <a class="db bg-center cover aspect-ratio--16x9 bb b--black-05 outline-0 br2 br--top overflow-hidden" 
+      style="background-image: url({{ site.url }}/assets/img/{{ include.project.img }});"
+      {% if include.project.video %}
+      href="{{ include.project.video }}"
+      data-lity
+      {% endif %}
+      >
+    </a>
+  {% endif %}
+  <div class="pa3">
+    <h4 class="f5 fw6 ma0">{{ include.project.name }}</h4>
+
+    {% if include.project.description %}
+      <p class="f6 ma0">{{ include.project.description }}</p>
+    {% endif %}
+
+    {% if include.project.tech %}
+      <p class="f7 ma0 i silver">{{ include.project.tech }}</p>
+    {% endif %}
+
+    <div class="f6 gold mt1">
+      {% if include.project.website %}
+        <a href="{{ include.project.website }}" class="color-inherit mr1" target="_blank"><i class="fa fa-link"></i></a>
+      {% endif %}
+
+      {% if include.project.paper %}
+        <a href="{{ include.project.paper }}" class="color-inherit mr1" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
+      {% endif %}
+
+      {% if include.project.video %}
+        <a href="{{ include.project.video }}" class="color-inherit mr1 outline-0" data-lity><i class="fa fa-youtube-play"></i></a>
+      {% endif %}
+
+      {% if include.project.github %}
+        <a href="{{ include.project.github }}" class="color-inherit mr1 outline-0" target="_blank"><i class="fa fa-github-alt"></i></a>
+      {% endif %}
+    </div>
+
+  </div>
+</div>

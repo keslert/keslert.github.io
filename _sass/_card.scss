@@ -1,0 +1,27 @@
+.card {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15), 
+              0 0 10px rgba(0,0,0,.1);
+  & > a[data-lity] {
+    position: relative;
+    &:before {
+      content: "\f144";
+      font-family: FontAwesome;
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      left: 0;
+      width: 100%;
+      bottom: 0;
+      background: rgba(0,0,0,.6);
+      color: #fff;
+      opacity: 0;
+      transition: opacity 300ms ease-in;
+      font-size: 4em;
+    }
+    &:hover:before {
+      opacity: 1;
+    }
+  }
+}

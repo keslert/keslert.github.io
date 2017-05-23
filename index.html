@@ -1,0 +1,40 @@
+---
+layout: page
+---
+
+<section class="pv3">
+  <div class="center constrained-width ph3">
+    <h1 class="f2 fw6 mb0">Kesler Tanner</h1>
+    <h2 class="f4 fw4 ma0">Christian. Husband. Father. Son. Friend. PhD Candidate. Web Developer / Designer. Entrepreneur.</h2>
+    <p class="f5 fw1 mt0">I have a bad habit of starting projects and not finishing them, but I’m working on improvi</p>
+  </div>
+</section>
+
+<section class="pv4">
+  <div class="center constrained-width ph3">
+    <h3 class="f4 fw6 ma0">Research</h3>
+    <div class="flex flex-wrap nl3 nr3">
+      {% for project in site.data.research %}
+        <div class="w-third-l w-50-m w-100 pa4 pa3-ns">
+          {% assign PROJECT=project[1] %}
+          {% include project-card.html project=PROJECT %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="pv4">
+  <div class="center constrained-width ph3">
+    <h3 class="f4 fw6 ma0">Web Projects</h3>
+    <div class="flex flex-wrap nl3 nr3">
+      {% for project in site.data.projects %}
+        <div class="w-third-l w-50-m w-100 pa4 pa3-ns">
+          {% assign PROJECT=project[1] %}
+          {% include project-card.html project=PROJECT %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+

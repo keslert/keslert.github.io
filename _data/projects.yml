@@ -1,0 +1,77 @@
+scriptures:
+  name: Study Scriptures (alpha)
+  website: https://study-scriptures.firebaseapp.com/
+  img: scriptures.jpg
+  description: Modern scriptures made for sharing.
+  tech: React, Redux, Firebase
+  github: https://github.com/keslert/Scriptures
+
+hey-habit: 
+  name: Hey Habit (beta)
+  website: https://www.heyhabit.com
+  video: https://youtu.be/4oGKDccn0xA
+  img: hey-habit.jpg
+  tech: React, Redux, Firebase, Chrome Ext.
+  description: Personal habit dashboard.
+
+family-tree-prints:
+  name: Family Tree Prints (beta)
+  website: https://www.familytreeprints.com
+  video: https://youtu.be/urlFwl_ok_0
+  img: family-tree-prints.jpg
+  tech: React, Redux, Firebase
+  description: Modern family tree charts maker.
+
+bookroo:
+  name: Bookroo
+  website: https://www.bookroo.com
+  img: bookroo.jpg
+  tech: Phoenix Framework, Semantic UI
+  description: Children's book subscription club.
+
+the-scout-apps:
+  name: The Scout App
+  website: https://itunes.apple.com/us/app/the-scout-app-for-boys-in-boy-scouts-of-america/id733163415
+  video: https://youtu.be/5fUMxcFPapY
+  img: the-scout-app.jpg
+  tech: Objective C, Angular 1.x, Simperium
+  description: Progress tracker for boys in BSA.
+
+bookroo-quizzes:
+  name: Book Quizzes for Bookroo
+  website: https://bookroo.com/book-quiz
+  video: https://youtu.be/NavyZkkT9-0
+  img: bookroo-quiz.jpg
+  tech: Elixir, Phoenix Framework, Javascript
+  description: Mobile optimized book quizzes.
+
+bookroo-reading-app:
+  name: Bookroo Reading App
+  website: https://bookroo.com/read
+  video: https://youtu.be/wcKzycYCb5E
+  img: bookroo-reading-app.jpg
+  tech: Elixir, Phoenix Framework, React
+  description: Reading app for Bookroo
+
+freelance-inbox:
+  name: Freelance Inbox
+  video: https://www.youtube.com/watch?v=gGglLYL05Us
+  img: freelance-inbox.jpg
+  tech: PHP, FatFreeFramework
+  description: Daily email w/ tailored freelance leads
+
+i-never-knew-but-now-i-do:
+  name: I Never Knew But Now I Do
+  website: http://web.archive.org/web/20141107054341/http://ineverknewbutnowido.com/snippets/popular
+  video: https://youtu.be/Umm78d0L-AU
+  img: i-never-knew.jpg
+  tech: PHP, FatFreeFramework
+  description: Interesting facts site
+
+chez-nous:
+  name: Chez Nous
+  website: cookbook.inthechairs.com
+  video: https://youtu.be/NLQDnqIAq1s
+  img: chez-nous.jpg
+  tech: PHP, CakePHP
+  description: A recipe site.

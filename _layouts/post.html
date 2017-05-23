@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="x0">
+    {% include header.html %}
+
+    <div class="post center measure-wide f5 pt4 pb5">
+                
+      <div class="">
+        <h1 class="mb0">{{ page.title }}</h1>
+        <div class="silver mb3">
+          {{ page.date | date: "%A, %B %d, %Y" }}
+        </div>
+      </div>
+                
+      <div class="">
+        {{ content }} 
+      </div>
+    
+    </div>
+
+  </body>
+
+</html>

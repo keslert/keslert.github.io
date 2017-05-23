@@ -1,0 +1,12 @@
+{% for book in site.data.reading %}
+  {% if book.year == include.year %}
+    <div class="book condensed">
+      <div class="f5 fw6 {% if book.thoughts %}pointer{% endif %} o-{{book.score | plus:2 }}0">
+        <span class="badge">{{ book.score }}</span> {{ book.name }}
+      </div>
+      {% if book.thoughts %}
+        <div class="f6 thoughts">{{ book.thoughts }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
