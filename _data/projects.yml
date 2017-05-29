@@ -51,14 +51,14 @@ bookroo-reading-app:
   video: https://youtu.be/wcKzycYCb5E
   img: bookroo-reading-app.jpg
   tech: Elixir, Phoenix Framework, React
-  description: Reading app for Bookroo
+  description: Reading app for Bookroo.
 
 freelance-inbox:
   name: Freelance Inbox
   video: https://www.youtube.com/watch?v=gGglLYL05Us
   img: freelance-inbox.jpg
   tech: PHP, FatFreeFramework
-  description: Daily email w/ tailored freelance leads
+  description: Daily email w/ tailored freelance leads.
 
 i-never-knew-but-now-i-do:
   name: I Never Knew But Now I Do
@@ -66,7 +66,7 @@ i-never-knew-but-now-i-do:
   video: https://youtu.be/Umm78d0L-AU
   img: i-never-knew.jpg
   tech: PHP, FatFreeFramework
-  description: Interesting facts site
+  description: Interesting facts site.
 
 chez-nous:
   name: Chez Nous
@@ -75,3 +75,18 @@ chez-nous:
   img: chez-nous.jpg
   tech: PHP, CakePHP
   description: A recipe site.
+
+gameplode:
+  name: Gameplode
+  website: https://web.archive.org/web/20140518175608/http://www.gameplode.com/
+  video: https://youtu.be/FDs1STV8hjQ
+  img: gameplode.jpg
+  tech: PHP
+  description: Website to host flash games (2009)
+
+flash-games:
+  name: Flash Games
+  website: /flash-games
+  img: spitball-warrior.jpg
+  tech: ActionScript, Flash
+  description: Flash games I made growing up.
