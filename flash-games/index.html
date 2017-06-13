@@ -3,27 +3,26 @@ layout: page
 description: "My infrequent written word."
 ---
 
-<section class="pv4">
-  <div class="center constrained-width ph3">
-    <h1>Flash Games</h1>
-    <p class="f5 mw8">I owe a great deal to Macromedia Flash (later Adobe Flash). It was the program that opened my eyes to the world of programming and taught me I could get paid  doing what I love. These are (most of) the games I made from 2005-2010.</p>
 
-    {% for game in site.data.games %}
-      <div class="game mb2">
-        <h3 class="mb0">{{ game.name }}</h3>
-        {% if game.description %}
-          <p class="ma0">{{ game.description }}</p>
+<div class="center constrained-width pa3 pb5">
+  <h1>Flash Games</h1>
+  <p class="f5 mw8">I owe a great deal to Macromedia Flash (later Adobe Flash). It was the program that opened my eyes to the world of programming and taught me I could get paid  doing what I love. These are (most of) the games I made from 2005-2010.</p>
+
+  {% for game in site.data.games %}
+    <div class="game mb2">
+      <h3 class="mb0">{{ game.name }}</h3>
+      {% if game.description %}
+        <p class="ma0">{{ game.description }}</p>
+      {% endif %}
+      <div 
+      <div class="f4 f6-ns gold">
+        {% if game.video %}
+          <a href="{{ game.video }}" class="color-inherit mr2 mr1-ns" data-lity><i class="fa fa-youtube-play"></i></a>
         {% endif %}
-        <div 
-        <div class="f4 f6-ns gold">
-          {% if game.video %}
-            <a href="{{ game.video }}" class="color-inherit mr2 mr1-ns" data-lity><i class="fa fa-youtube-play"></i></a>
-          {% endif %}
 
-          {% if game.swf %}
-            <a href="{{ site.url }}/assets/games/{{ game.swf }}" class="f7 color-inherit mr2 mr1-ns">(download .swf)</a>
-          {% endif %}
-      </div>
-    {% endfor %}
-  </div>
-</section>
+        {% if game.swf %}
+          <a href="{{ site.url }}/assets/games/{{ game.swf }}" class="f7 color-inherit mr2 mr1-ns">(download .swf)</a>
+        {% endif %}
+    </div>
+  {% endfor %}
+</div>

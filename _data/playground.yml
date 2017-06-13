@@ -1,6 +1,6 @@
 - name: Color Palette Generator
   website: http://keslertanner.com/color-palette-generator
-  description: Purely random.
+  description: Based on randomness.
   video: https://youtu.be/t3wD1H-f-58
   tech: React, Redux
   github: https://github.com/keslert/color-palette-generator

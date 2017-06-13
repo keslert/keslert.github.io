@@ -1,4 +1,12 @@
-- name: "The Bartimaeus Triology"
+- name: "Harry Potter and the Half-Blood Prince"
+  score: 7
+  year: 2017
+
+- name: "The Practicing Mind"
+  score: 5
+  year: 2017
+
+- name: "The Bartimaeus Trilogy"
   score: 6
   year: 2017
 

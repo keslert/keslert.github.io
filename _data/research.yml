@@ -5,6 +5,12 @@ DSG:
   website: https://designbot-1c899.firebaseapp.com/
   github: https://github.com/keslert/designbot
 
+study-of-design:
+  name: Study of Design
+  img: study-of-design.jpg
+  description: Website for studies on visual design. Currently focused on aesthetic perceptions.
+  website: https://studyofdesign.com
+
 Slideback:
   name: Slideback
   img: slideback.jpg
