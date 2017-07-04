@@ -1,6 +1,6 @@
 - name: Reverse Raffle
   website: http://keslertanner.com/reverse-raffle
-  description: Raffle by elimination. Forked from <a class="link gold" href="https://github.com/stringham/raffle" target="_blank">Stringham</a>.
+  description: Raffle by elimination. Inspired by <a class="link gold" href="https://github.com/stringham/raffle" target="_blank">Stringham</a>.
   video: https://youtu.be/2CpYOlfMO0I
   tech: React
   github: https://github.com/keslert/reverse-raffle
