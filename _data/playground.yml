@@ -1,6 +1,18 @@
+- name: Reverse Raffle
+  website: http://keslertanner.com/reverse-raffle
+  description: Raffle by elimination. Forked from <a class="link gold" href="https://github.com/stringham/raffle" target="_blank">Stringham</a>.
+  video: https://youtu.be/2CpYOlfMO0I
+  tech: React
+  github: https://github.com/keslert/reverse-raffle
+
 - name: Color Palette Generator
   website: http://keslertanner.com/color-palette-generator
   description: Based on randomness.
   video: https://youtu.be/t3wD1H-f-58
   tech: React, Redux
   github: https://github.com/keslert/color-palette-generator
+
+- name: Distributed Chat
+  description: Chat room using network broadcast pings
+  github: https://github.com/daniter-cu/shout
+  tech: Python

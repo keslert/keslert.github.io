@@ -10,7 +10,9 @@
     </a>
   {% endif %}
   <div class="pa3">
-    <a class="f5 fw6 ma0 link color-inherit" href="{{ include.project.website }}">{{ include.project.name }}</a>
+    <a class="f5 fw6 ma0 link color-inherit" {% if include.project.website %}href="{{ include.project.website }}"{% endif %}>
+      {{ include.project.name }}
+    </a>
 
     {% if include.project.description %}
       <p class="f6 ma0">{{ include.project.description }}</p>
