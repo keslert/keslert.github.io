@@ -24,6 +24,10 @@ $grey-color-dark:  darken($grey-color, 25%);
   max-width: 40em;
 }
 
+.link:focus {
+  outline: none;
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
