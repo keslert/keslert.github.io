@@ -1,8 +1,8 @@
-DSG:
-  name: DSG (in process)
-  img: dsg.jpg
+Juxxt:
+  name: Juxxt (alpha)
+  img: juxxt.jpg
   description: Design System Generator. Making use of patterns, components and style constraints.
-  website: https://designbot-1c899.firebaseapp.com/
+  website: https://www.juxxt.io
   github: https://github.com/keslert/designbot
 
 study-of-design:
