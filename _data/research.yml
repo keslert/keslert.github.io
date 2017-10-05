@@ -1,7 +1,7 @@
 Juxxt:
   name: Juxxt (alpha)
   img: juxxt.jpg
-  description: Design System Generator. Making use of patterns, components and style constraints.
+  description: Design System Generator. Designing within a superset of design systems.
   website: https://www.juxxt.io
   github: https://github.com/keslert/designbot
 
@@ -15,7 +15,7 @@ Slideback:
   name: Slideback
   img: slideback.jpg
   github: https://github.com/keslert/Slideback/
-  description: Chrome extension that replays a Google Slide doc's action history.
+  description: Chrome extension that replays the creation of a Google Slide document.
 
 Variation:
   name: Variation
