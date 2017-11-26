@@ -63,7 +63,7 @@ Each new problem should be approached as unique. Try to find a frame that makes 
 
 Developing a toolkit of solutions. Framing problems. Mapping solutions onto that framing.
 
-* Can I solve the problem I have set?\
+* Can I solve the problem I have set?
 * Do I like what I get when I solve this problem?
 * Have I made the situation coherent?
 * Have I made it congruent with my fundamental values and theories?
@@ -85,12 +85,12 @@ Dillema of the professional today is the rapid change in "the body of knowledge 
 1. Common Ground
 2. Coupling of work
 3. Collaborative readiness
-4. Technological readiness
+4. Collaboration Technological readiness
 
 Technology may not be able to solve differences in common ground, timezone, and culture.
 
 * Copresence — same physical environment
-* Visibility - visible to teach other
+* Visibility - visible to each other
 * Audibility — speech
 * Contemporality — message received immediately
 * Simultaneity — both speakers can send and receive
@@ -108,9 +108,13 @@ Asyncronous, Anonymous, Archived
 
 #### Tangible Bits
 
-Interactive Surfaces — metaDESK
-Coupling of bits with Graspable Physical Objects — transBOARD
-Ambient Media for Background Awareness — ambientROOM
+Transition of HCI from the GUI of desktop PCs to Tangible User Interfaces which will change the world itself into an interface.
+
+1. Interactive Surfaces — metaDESK
+2. Coupling of bits with Graspable Physical Objects — transBOARD
+3. Ambient Media for Background Awareness — ambientROOM
+
+
 
 #### A Pattern Language
 
@@ -234,7 +238,7 @@ Probably should have also tested the reverse Tn to T0 in case people did the ges
 
 ### Crayons: camera-based interaction
 
-Creating classifiers by marking pixels with different colors to signify what class they belong in. 150+ features for each pixel. The trained classifier is exported as a serialized Java object.
+Creating classifiers by marking pixels with different colors to signify what class they belong in. 175 features for each pixel. The trained classifier is exported as a serialized Java object.
 
 ### Designing the Whyline: A Debugging Interface
 
@@ -263,7 +267,7 @@ Keyword Pattern Matching Algorithm uses pixel distance between label and element
 
 ### Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure
 
-Reverse engineer the pixel representation of an interface to overlay a new interface on top of it that provides additional functionality such as Bubble selection, Sticky Inputs
+Reverse engineer the pixel representation of an interface to overlay a new interface on top of it that provides additional functionality such as Bubble selection, Sticky Inputs, Fade Sliders
 
 Source -> Interpretation -> Target
 
@@ -272,6 +276,11 @@ Features, Prototypes, Transitions
 ### Human-Machine Reconfigurations
 
 Plan (vs) Situated Action
+
+People's actions are influenced by the context of their specific situation.
+- Instead of just taking notes from the video, the research can use this framework to pull out the specific actions of both the machine and the user as well as what actions were available to the machine and user.
+- Doesn't feature a talk-aloud, so it's hard to know what the user is thinking
+- The machine is only able to perceive a small portion of the actions the user is taking. This is all the machine has to go on.
 
 http://mcs.open.ac.uk/yr258/sit_act/
 
@@ -299,26 +308,27 @@ Vera and Simon argue that people employ Planning and planning execution. When th
 
 ### Understanding Computers and Cognition
 
+How do computers fit into a human society?
+
 "We can create tools that are designed to make the maximal use of human perception and understanding without projecting human capacities on the computer."
+
+"We are doing more than asking what can be built. We are engaging in a philosophical discourse about the self&mdash;about what we can do and what we can be."
 
 Our current approach to AI will not result in "intelligent" machines.
 
 Most AI today is just pattern matching.
 
 * Breakdown: when unexpected things happen and the technology becomes visible. "A breakdown is not a negative situation to be avoided, but a situation of non-obviousness, in which the recognition that something is missing leads to unconcealing some aspect of the network of tools that we are engaged in using."
-* Blindness: unexpect and unintended consequences of hiding or closing off possibilities or actions.
+* Blindness: unexpect and unintended consequences of hiding or closing off possibilities or actions. We are always somewhat blind to the prejudicies/assumptions that guide our thinking...and we can't totally escape this predicament. 
 * Throwness: rarely is life based on preconceived actions, but instead life is thrown at us and we must act.
 
 "The question 'Is X a bachelor?' cannot be answered without considering the potential answers to'Why do you want to know?'"
 The appropriate action is dependant on context, i.e. the intended actions of the questioner.
 
-"The essence of intelligence is to act appropriately when there is no simple pre-definition of the problem or the space of states in which to search for a solution."
-
-"It should be no surprise then, that the area in which artificial intelligence has had the greatest difficulty is in the programming common sense."
-
-"We accuse people of lacking common sense precisely when some representation of the sitaution has blinded them to a space of potentially relevant actions."
-
-"the essence of our intelligence is in our thrownness, not our reflection."
+* "The essence of intelligence is to act appropriately when there is no simple pre-definition of the problem or the space of states in which to search for a solution."
+* "It should be no surprise then, that the area in which artificial intelligence has had the greatest difficulty is in the programming common sense."
+* "We accuse people of lacking common sense precisely when some representation of the sitaution has blinded them to a space of potentially relevant actions."
+* "the essence of our intelligence is in our thrownness, not our reflection."
 
 "There is a clear split between the 'knowledge engineers,' who apply the well-developed technologies of AI to practical problems, and the 'mind-modelers,' who speculate about the more complex structures that might underlie human thought."
 
@@ -439,6 +449,8 @@ Validity of Research
 
 - Independent Variable
 - Dependent Variable
+- Control Variable
+- Covariate
 
 - Cross sectional study
 - Trend study (multiple cross sections, longitudinal)
@@ -450,6 +462,18 @@ Validity of Research
 
 - Ethics
 - Sampling
+- Statistics
+- Secondary Data / Big Data
+- Unobtrusive Measures
+- Evaluation Measures
+- Literature Review
+- Writing a paper
+
+Field Notes
+- descriptive information
+- reflective information
+- sketches/drawings
+
 
 Causal Validity
 1. Assocation (Correlation)
@@ -461,3 +485,140 @@ Causal Validity
 High and low scorers will naturally regress towards the mean. So when choosing a group based on pretest scores, beware of this natural regression.
 
 Hawthorne effect: members of the treatment group change relative to the dependent variable because their participation in the study makes them feel special.
+
+Qualitative Methods
+- Participant Observation
+- Intensive Interviewing
+- Focus Groups
+
+
+### General Notes (mostly from Wikipedia)
+
+Grounded Theory
+- construction of theory through the analysis of data
+- repeated ideas, concepts or elements become apparent, and are tagged with codes
+- Codes -> Concepts -> Categories -> Theories
+- "is a systematic generation of theory from data that contains both inductive and deductive thinking. One goal is to formulate hypotheses based on conceptual ideas. Others may try to verify the hypotheses that are generated by constantly comparing conceptualized data on different levels of abstraction, and these comparisons contain deductive steps."
+- 1) "find the core variable (the main concern and its recurrent solution) as the first stage of the study, and delimit to the core variable 2) the researcher suspends his/her preconceptions, remains open, and trusts in "emergence of concepts from the data" 3) Avoiding descriptive interpretations in favor of abstract conceptualizations by the method of constant comparison, which facilitates the discovery of stable patterns in the data (i.e., "emergence of concepts")
+- The core variable becomes the focus of the research and theory.  The core variable is the variable which accounts for the most variation.
+
+
+Memoing 
+- Memoing is the act of recording reflective notes about what the researcher (fieldworker, data coder, and/or analyst) is learning from the data. Memos accumulate as written ideas or records about concepts and their relationships.
+- is when the running notes of each of the concepts that are being identified are kept. 
+- It is the intermediate step between the coding and the first draft of the completed analysis. 
+- Memos are field notes about the concepts in which one lays out their observations and insights. Memoing starts with the first concept that has been identified and continues right through the process of breaking the text and of building theories.
+- "Memos are the theorizing write-up of ideas about substantive codes and their theoretically coded relationships as they emerge during coding, collecting and analyzing data, and during memoing" (Glaser 1998)
+- Theoretical memos can be anything written or drawn in the constant comparison that makes up a GT
+- Memos are important tools to both refine and keep track of ideas that develop when researchers compare incidents to incidents and then concepts to concepts in the evolving theory
+- Memoing works as an accumulation of written ideas into a bank of ideas about concepts and how they relate to each other.
+- Memoing is total creative freedom without rules of writing, grammar or style (Glaser 1998)
+
+### Ways of Knowing in HCI
+
+Grounded Theory Method
+- Began with Glaser & Strauss 1967
+- "Abductive inference is a "logic of discovery" concerned with finding new interpretations (theories) for data that do not fit old ideas." The logic of abduction is to find a surprising phenomenon and then to try to explain it.
+- "Hypothesis on probation" — GTM provides disciplined ways of testing these "hypotheses on probation".
+- The methods are used to construct theories of particular phenomena or domains that are "grounded" in the data.
+- Describe the data, build increasingly powerful abstractions based on the data and to collect additional data that can provide the most effective tests of those abstractions.
+- "Constant Comparison" — continual reference to the data.
+
+
+GTM Steps
+1. Open coding
+2. Axial coding
+3. Categories
+4. Theories — Core concept / concept variable
+
+
+Good Hypothesis
+1. Precise
+2. Meaningful (generates new knowledge, convinces us a new system is more efficient, effective)
+3. Testable
+4. Falsifiable
+
+Null Hypothesis: Different frame rates do not affect human perception of fluid movements
+Alternative Hypothesis: Different frame rates do affect human perception of fluid movements
+
+MAGIC
+- Magnitude (what's the effect size compared to the cost of intervention)
+- Articulation (how well do you explain the study and results)
+- Generalizability
+- Interestingness
+- Credibility
+
+### Methodology Matters
+
+1. Generalizability
+2. Precision
+3. Realism
+
+
+Quad I - Respondent Strategy
+  - Judgment Study
+  - Sample Survey
+Quad II - Experimental Strategy
+  - Lab Experiment
+  - Experimental Simulation
+Quad III  - Field Strategy
+  - Field Experiment
+  - Field Study
+Quad IV - Theoretical Strategy
+  - Formal Theory
+  - Computer Simulation
+
+
+### Past, Present, and Future of User Interface Software Tools
+
+Things that worked
+- Event driven
+- Object oriented
+- Scripting languages
+
+Things that didn't work
+- Constrained
+- Automiation Techniques 
+
+Future tools are going to need to address ubiquitous computing, different screen sizes, realtime.
+
+### Man-Computer Symbiosis
+
+Fig tree and the insect — Each depend on each other to survive.
+Want computers to feel like working with another engineer. Not as an augmentation to the human, but as a separate, dependant entity.
+
+
+### Participatory Design
+
+Workers themselves are in the best position to determine how to improve their work and their work life. (Although sometimes I think you are too close to a problem to see improvements.)
+
+Users are the experts, designers the technical consultants.
+
+Lawyers who nailed the secretaries chairs to the floor to avoid putting marks in the carpet
+
+User-designed = Wikipedia content. The users have the tools to create the content.
+User-centered = Wikipedia software. The software is based on user input and needs.
+
+
+### Computer for the 21st Century
+
+- Pads, Tabs and Boards
+- Ubiquitous computing. Computers disappearing into the background.
+- Sal
+- Mark Weiser coined the term "Ubiquitous computing" in 1988.
+
+"There is more information available at our fingertips during a walk in the woods than in any computer system, yet people find a walk among trees relaxing and computers frustrating. Machines that fit the human environment, instead of forcing humans to enter theirs, will make using a computer as refreshing as taking a walk in the woods."
+
+
+### Xerox Star
+
+The Star was the first commercial system which demonstrated the power of a 
+- mouse, 
+- windows, 
+- icons
+- property sheets
+- modeless interactions. 
+
+The Star also set several important HCI design principles, such as 
+- "seeing and pointing vs remembering and typing,"
+- "what you see is what you get." 
