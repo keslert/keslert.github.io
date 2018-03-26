@@ -1,3 +1,76 @@
+- name: "Surely You're Joking, Mr. Feynman"
+  score: 5
+  year: 2018
+- name: "The Simple Faith of Mr. Rogers"
+  score: 5
+  year: 2018
+- name: "The Medusa Plot"
+  score: 3
+  year: 2018
+- name: "Norse Mythology"
+  score: 5
+  year: 2018
+- name: "The Magicians"
+  score: 6
+  year: 2018
+- name: "Musicophilia"
+  score: 4
+  year: 2018
+  thoughts: "I should put more things to music."
+- name: "1984"
+  score: 5
+  year: 2018
+- name: "The Circle"
+  score: 5
+  year: 2018
+  thoughts: "Thought provoking. Similar to Black Mirror Season 3 episode 1. Scary to think what blinders we have on but are unaware of."
+- name: "The Millionaire Next Door"
+  score: 4
+  year: 2018
+  thoughts: "Not as good as Rich Dad, Poor Dad."
+- name: "Mr. Monk Goes to the Fire Station"
+  score: 4
+  year: 2018
+  thoughts: "Love the show so I thought I'd try one of the books. It was enjoyable but felt like a 45 minute episode playing out over a 7-hour audio book."
+- name: "Wishful Drinking by Carrie Fisher"
+  score: 5
+  year: 2018
+  thoughts: "Interesting glimpse into the life of Carrie Fisher."
+- name: "The Making of Donal Trump"
+  score: 4
+  year: 2018
+  thoughts: "Learned something about Trump. Seemed a little one-sided."
+- name: "Chaos Monkeys"
+  score: 4
+  year: 2018
+  thoughts: "Interesting glimpse into Silicon Valley from the perspective of Antonio Garcia Martinez. The man lost out on a lot of money."
+- name: "Gatefather"
+  score: 5
+  year: 2018
+- name: "Seventh Son"
+  score: 4
+  year: 2018
+- name: "Earth Unaware: The Formic Wars"
+  score: 5
+  year: 2018
+  thoughts: "Fun ideas about a future of families in space."
+- name: "Wind in the Willows"
+  score: 5
+  year: 2017
+  thoughts: "First time reading this. I thought it was light and fun. I think we all have a little bit of Mr. Toad in us at times."
+- name: "Thinking, Fast and Slow"
+  score: 4
+  year: 2017
+- name: "The Beekeeper's Apprentice"
+  score: 3
+  year: 2017
+  thoughts: "I thought the writing in the beginning was beautiful. It was a little slow moving after that though. Maybe thought it's because I listened to this spaced out over quite a few weeks."
+- name: "The secret lives of introverts"
+  score: 2
+  year: 2017
+- name: "Ender's Game"
+  score: 7
+  year: 2017
 - name: "The Fellowship of the Rings"
   score: 5
   year: 2017
