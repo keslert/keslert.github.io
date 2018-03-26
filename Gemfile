@@ -27,4 +27,4 @@ ruby RUBY_VERSION
 
 
 gem 'github-pages'
-gem "jekyll-feed", "~> 0.6"
+gem 'jekyll-feed'
