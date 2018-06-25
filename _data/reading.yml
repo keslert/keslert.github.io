@@ -1,3 +1,47 @@
+- name: "The Magnolia Story"
+  score: 4
+  year: 2018
+- name: "The Magician King"
+  score: 4
+  year: 2018
+- name: "The Silkworm"
+  score: 2
+  year: 2018
+- name: "Rogue Lawyer"
+  score: 4
+  year: 2018
+- name: "The BFG"
+  score: 4
+  year: 2018  
+- name: "The Tipping Point"
+  score: 4
+  year: 2018
+- name: "A Man Called Ove"
+  score: 6
+  year: 2018
+- name: "Hillbilly Elegy"
+  score: 6
+  year: 2018
+- name: "The Prestige"
+  score: 4
+  year: 2018
+- name: "Notorious RBG"
+  score: 4
+  year: 2018
+- name: "Roger Moore, One Lucky Bastard"
+  score: 2
+  year: 2018
+  thoughts: "Not that interesting, although I did enjoy his thoughts on Frank Senatra"
+- name: "The Alchemist"
+  score: 6
+  year: 2018
+  thoughts: "Cool story about chasing your destiny."
+- name: "Anne Frank, The Diary of a Young Girl"
+  score: 5
+  year: 2018
+- name: "Astrophysics for People in a Hurry"
+  score: 4
+  year: 2018
 - name: "Surely You're Joking, Mr. Feynman"
   score: 5
   year: 2018
@@ -14,9 +58,9 @@
   score: 6
   year: 2018
 - name: "Musicophilia"
-  score: 4
+  score: 3
   year: 2018
-  thoughts: "I should put more things to music."
+  thoughts: "I should put more things to music. Think of all the things you can remember because they're set to music."
 - name: "1984"
   score: 5
   year: 2018

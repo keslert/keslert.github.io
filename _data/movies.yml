@@ -1,0 +1,30 @@
+- title: The Black Panther
+  watched: true
+  rating: 7
+- title: The Post
+  watched: true
+  rating: 6
+
+
+- title: The Five
+  netflix: true
+
+- title: Flaked
+  netflix: true
+
+- title: Happy Valley
+  netflix: true
+
+
+- title: "The Choice"
+  watched: false
+- title: "Central Intelligence"
+  watched: true
+  rating: 3
+  
+- title: "I Can Only Imagine 2018"
+  watched: false
+- title: "Big Fish"
+  watched: false
+- title: "A Man Called Ove"
+  watched: false
