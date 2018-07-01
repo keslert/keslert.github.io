@@ -1,5 +1,5 @@
 - name: Deep Cards
-  website: deep-cards.firebaseapp.com
+  website: https://deep-cards.firebaseapp.com
   description: Questions for deep conversations.
   tech: React
   github: https://github.com/keslert/deep-cards
