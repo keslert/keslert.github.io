@@ -1,3 +1,9 @@
+- name: Deep Cards
+  website: deep-cards.firebaseapp.com
+  description: Questions for deep conversations.
+  tech: React
+  github: https://github.com/keslert/deep-cards
+
 - name: Reverse Raffle
   website: http://keslertanner.com/reverse-raffle
   description: Raffle by elimination. Inspired by <a class="link gold" href="https://github.com/stringham/raffle" target="_blank">Stringham</a>.
