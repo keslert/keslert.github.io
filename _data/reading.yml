@@ -1,3 +1,19 @@
+- name: "The Magician's Land"
+  score: 4
+  year: 2018
+- name: "What Happened by Hillary Clinton"
+  score: 4
+  year: 2018
+- name: "The Pixar Touch"
+  score: 5
+  year: 2018
+- name: "The Secrets of Happy Families"
+  score: 3
+  year: 2018
+- name: "Mistborn: The Final Empire"
+  score: 6
+  year: 2018
+  thought: "I've been asked so many times if I've read Brandon Sanderson that I finally decided to give one of his books a try. I was really intrigued by his magic system. I'm excited to read more of his books."
 - name: "Predictably Irrational"
   score: 5
   year: 2018
