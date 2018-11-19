@@ -1,3 +1,21 @@
+
+- name: "Farenheight 451"
+  score: 6
+  year: 2018
+- name: "Shoe Dog"
+  score: 6
+  year: 2018
+- name: "Becoming Steve Jobs"
+  score: 6
+  year: 2018
+  thought: "I think I liked this better than Walter Isaacson's version. I left feeling like I understood Steve Jobs better. I was surprised to learn that Steve didn't like traveling much and instead preferred to spend time with his family."
+- name: "Girl, Wash Your Face"
+  score: 5
+  year: 2018
+- name: "Marjorie Prime"
+  score: 5
+  year: 2018
+  thought: "Dystopian drama where robots replace those people we've lost. Satisfied my curiosity, but left me feeling sad."
 - name: "The Magician's Land"
   score: 4
   year: 2018

@@ -1,3 +1,8 @@
+- name: Scripture Reading Charts
+  website: https://heyscriptures.netlify.com
+  description: Generating Scripture Reading Charts.
+  tech: React
+
 - name: Deep Cards
   website: https://deep-cards.firebaseapp.com
   description: Questions for deep conversations.
