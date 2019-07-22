@@ -1,4 +1,43 @@
-
+- name: Fear
+  score: 4
+  year: 2019
+  thought: "Very interesting to learn more about Trump and the whitehouse. It helped me make more sense of the things I heard about in the news. Unfortunately, I feel like it's so hard to know what to trust these days. I found this a lot easier to believe than the stories in the Hillary Clinton book. It might be because I felt like this had some positive things as well as negative."
+- name: "1776"
+  score: 3
+  year: 2019
+- name: "Bird Box"
+  score: 5
+  year: 2019
+  thought: "Pretty dark but I listened to this in < 24 hours. Really engaging. But what happened to Gary?"
+- name: "Brave New World"
+  score: 4
+  year: 2019
+- name: "The Wife"
+  score: 4
+  year: 2019
+  thought: "Too strong of language. Really interesting story about a young woman taking a backseat to support her husband."
+- name: "Make It Stick"
+  score: 5
+  year: 2019
+  thought: "How to learn. Recall is hard, but the way to learn."
+- name: "Five Little Pigs"
+  score: 3
+  year: 2018
+  thought: "Tried another Agatha Christie book. I found it slow moving and rather boring. At least with this one though you can reason out who did it." 
+- name: "The Power of Vulnerability"
+  score: 6
+  year: 2018
+  thought: "Listened to this twice. I found it extremely helpful to think about shame and vulnerability and my life and in my relationships with others. I'd like to be better about being comfortable with not being cool." 
+- name: "Titan"
+  score: 5
+  year: 2018
+  thought: "I really enjoyed learning about Rockefeller. It made me understand Chan's fascination with the Robber Barons." 
+- name: "Zero to One"
+  score: 5
+  year: 2018
+- name: "Bad Blood"
+  score: 5
+  year: 2018
 - name: "Farenheight 451"
   score: 6
   year: 2018
@@ -505,4 +544,7 @@
   year: 2014
 - name: The Maze Runner (liked the movie, disliked the book)
   score: 2
+  year: 2014
+- name: "The Other Wes Moore: One Name, Two Fates"
+  score: 4
   year: 2014
