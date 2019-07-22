@@ -1,4 +1,18 @@
-- name: Fear
+- name: "Fear"
+  score: 4
+  year: 2019
+- name: "The Lean Startup"
+  score: 5
+  year: 2019
+- name: "Deep Work"
+  score: 5
+  year: 2019
+  thought: "Slow to start, but I found the advice to be inspiring."
+- name: "The Aviator's Wife"
+  score: 3
+  year: 2019
+  thought: "Kind of a slow read."
+- name: "Fear"
   score: 4
   year: 2019
   thought: "Very interesting to learn more about Trump and the whitehouse. It helped me make more sense of the things I heard about in the news. Unfortunately, I feel like it's so hard to know what to trust these days. I found this a lot easier to believe than the stories in the Hillary Clinton book. It might be because I felt like this had some positive things as well as negative."
