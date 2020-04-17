@@ -46,7 +46,7 @@ bookroo-quizzes:
   description: Mobile optimized book quizzes.
 
 bookroo-reading-app:
-  name: Bookroo Reading App
+  name: Reading App for Bookroo
   website: https://bookroo.com/read
   video: https://youtu.be/wcKzycYCb5E
   img: bookroo-reading-app.jpg

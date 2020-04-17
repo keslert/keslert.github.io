@@ -7,29 +7,59 @@ description: "New Years works for me."
   <h1 class="mb0">Goals</h1>
   <p class="f5 mt0 silver">New Year's works for me.</p>
 
-  <div class="year-goals open mb3">
+  <div class="year-goals mb3">
+    <h2>2019 (January - June)</h2>
+    <ul class="list f5 pl0 ma0">
+      <li>
+        {% include checkbox-item.html text="Finish PhD (June 5)" %}
+        <ul class="list pl4">
+          <li>{% include checkbox-item.html text="January Presentation" %}</li>
+          <li>{% include checkbox-item.html text="Design Q Implementation" %}</li>
+          <li>{% include checkbox-item.html text="Design Q Evaluation" %}</li>
+          <li>{% include checkbox-item.html text="CHI Presentation" %}</li>
+          <li>{% include checkbox-item.html text="Dissertation Defense" %}</li>
+          <li>{% include checkbox-item.html text="Submit Dissertation" %}</li>
+        </ul>
+      </li>
+      
+      <li>
+        {% include checkbox-item.html text="Spiritual" %}
+        <ul class="list pl4">
+          <li>{% include checkbox-item.html text="Read Book of Mormon (1 Nephi - Alma)" %}</li>
+          <li>{% include checkbox-item.html text="Monthly Temple Trips" %}</li>
+          <ul class="list pl4">
+            <li>{% include checkbox-item.html text="January" checked=false %}</li>
+            <li>{% include checkbox-item.html text="February" checked=false %}</li>
+            <li>{% include checkbox-item.html text="March" checked=false %}</li>
+            <li>{% include checkbox-item.html text="April" checked=false %}</li>
+            <li>{% include checkbox-item.html text="May" checked=false %}</li>
+            <li>{% include checkbox-item.html text="June" checked=false %}</li>
+          </ul>
+        </ul>
+      </li>
+
+
+    </ul>
+  </div>
+
+  <div class="year-goals mb3">
     <h2>2018</h2>
     <ul class="list f5 pl0 ma0">
       <li>
         {% include checkbox-item.html text="Finish PhD" %}
         <ul class="list pl4">
-          <li>{% include checkbox-item.html text="Proposal" %}</li>
+          <li>{% include checkbox-item.html text="Proposal" checked=true %}</li>
+          <li>{% include checkbox-item.html text="Poirot" checked=true %}</li>
           <li>{% include checkbox-item.html text="Expert/Novice" %}</li>
-          <li>{% include checkbox-item.html text="Flare, Filter & Focus" %}</li>
-          <li>{% include checkbox-item.html text="Meaningful Design Scale" %}</li>
           <li>{% include checkbox-item.html text="Juxxt 2.0" %}</li>
         </ul>
       </li>
-      
-      
-      
       
       <li>
         {% include checkbox-item.html text="Projects" %}
         <ul class="list pl4">
           <li>{% include checkbox-item.html text="Missionary Maps" %}</li>
           <li>{% include checkbox-item.html text="Hey Habit 25,000 users" %}</li>
-          <li>{% include checkbox-item.html text="Stream UI" %}</li>
           <li>{% include checkbox-item.html text="Scout App Update" %}</li>
         </ul>
       </li>
@@ -41,8 +71,8 @@ description: "New Years works for me."
           <li>
             {% include checkbox-item.html text="100 Days of Learning" %}
             <ul class="list pl4">
-              <li>{% include checkbox-item.html text="Typography (January)" %}</li>
-              <li>{% include checkbox-item.html text="Advanced React (February)" %}</li>
+              <li>{% include checkbox-item.html text="Typography (January)" checked=true %}</li>
+              <li>{% include checkbox-item.html text="Advanced React (February)" checked=true %}</li>
             </ul>
           </li>
         </ul>
@@ -64,15 +94,15 @@ description: "New Years works for me."
           <li>{% include checkbox-item.html text="Reverse Raffle" checked=true %}</li>
           <li>{% include checkbox-item.html text="Marian" checked=true %}</li>
           <li>{% include checkbox-item.html text="Flare, Focus & Filter" checked=true %}</li>
+          <li>{% include checkbox-item.html text="Juxxt" checked=true %}</li>
           <li>{% include checkbox-item.html text="Study Scriptures" %}</li>
           <li>{% include checkbox-item.html text="HCI website" %}</li>
-          <li>{% include checkbox-item.html text="Juxxt" %}</li>
           <li>{% include checkbox-item.html text="Stream UI" %}</li>
           <li>{% include checkbox-item.html text="Conundrum" %}</li>
         </ul>
       </li>
-      <li>{% include checkbox-item.html text="Publish at CHI" %}</li>
       <li>{% include checkbox-item.html text="Pass Quals" checked=true %}</li>
+      <li>{% include checkbox-item.html text="Publish at CHI" %}</li>
     </ul>
   </div>
   

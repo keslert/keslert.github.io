@@ -1,3 +1,53 @@
+- name: "To Kill a Mockingbird"
+  score: 7
+  year: 2020
+- name: "Frankenstein"
+  score: 5
+  year: 2020
+- name: "Joseph Smith: Rough Stone Rolling"
+  score: 5
+  year: 2020
+- name: "The Dragonet Prophecy"
+  score: 4
+  year: 2020
+- name: "The Five Love Languages"
+  score: 5
+  year: 2020
+- name: "The Call of the Wild"
+  score: 5
+  year: 2020
+- name: "Talking to Strangers"
+  score: 5
+  year: 2020
+- name: "A Gentleman in Moscow"
+  score: 6
+  year: 2020
+- name: "Becoming (Michelle Obama)"
+  score: 5
+  year: 2020
+- name: "Where the Crawdads Sing"
+  score: 5
+  year: 2020
+- name: "Essentialism"
+  score: 5
+  year: 2020
+- name: "The Watchmaker's Daughter"
+  score: 4
+  year: 2020
+- name: "Where the Crawdads Sing"
+  score: 4
+  year: 2019
+  thought: "Interesting read but I honestly didn't love how it ended."
+- name: "The Wise Man's Fear"
+  score: 6
+  year: 2019
+  thought: "Focused a little too much on sex towards the end, but I thoroughly enjoyed the rest of the book."
+- name: "The Name of the Wind"
+  score: 5
+  year: 2019
+- name: "Ender's Game"
+  score: 7
+  year: 2019
 - name: "Fear"
   score: 4
   year: 2019
