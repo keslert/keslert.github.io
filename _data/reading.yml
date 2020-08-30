@@ -1,5 +1,33 @@
+- name: "Words of Radiance"
+  score: 6
+  year: 2020
+- name: "Babbit"
+  score: 6
+  year: 2020
+  thought: "LA Theatre production"
+- name: "The Rithmatist"
+  score: 4
+  year: 2020
+- name: "The Moment of Lift"
+  score: 5
+  year: 2020
+- name: "Gathering Blue"
+  score: 5
+  year: 2020
+- name: "The Little Book of Hygge"
+  score: 5
+  year: 2020
+- name: "What Way of Kings"
+  score: 6
+  year: 2020
+- name: "Dune"
+  score: 4
+  year: 2020
+- name: "Peter Pan by J. M. Barrie"
+  score: 3
+  year: 2020
 - name: "To Kill a Mockingbird"
-  score: 7
+  score: 6
   year: 2020
 - name: "Frankenstein"
   score: 5
@@ -20,7 +48,7 @@
   score: 5
   year: 2020
 - name: "A Gentleman in Moscow"
-  score: 6
+  score: 7
   year: 2020
 - name: "Becoming (Michelle Obama)"
   score: 5
@@ -33,6 +61,12 @@
   year: 2020
 - name: "The Watchmaker's Daughter"
   score: 4
+  year: 2020
+- name: "When Breath Becomes Air"
+  score: 5
+  year: 2020
+- name: "Atomic Habits"
+  score: 7
   year: 2020
 - name: "Where the Crawdads Sing"
   score: 4
@@ -87,15 +121,15 @@
 - name: "Five Little Pigs"
   score: 3
   year: 2018
-  thought: "Tried another Agatha Christie book. I found it slow moving and rather boring. At least with this one though you can reason out who did it." 
+  thought: "Tried another Agatha Christie book. I found it slow moving and rather boring. At least with this one though you can reason out who did it."
 - name: "The Power of Vulnerability"
   score: 6
   year: 2018
-  thought: "Listened to this twice. I found it extremely helpful to think about shame and vulnerability and my life and in my relationships with others. I'd like to be better about being comfortable with not being cool." 
+  thought: "Listened to this twice. I found it extremely helpful to think about shame and vulnerability and my life and in my relationships with others. I'd like to be better about being comfortable with not being cool."
 - name: "Titan"
   score: 5
   year: 2018
-  thought: "I really enjoyed learning about Rockefeller. It made me understand Chan's fascination with the Robber Barons." 
+  thought: "I really enjoyed learning about Rockefeller. It made me understand Chan's fascination with the Robber Barons."
 - name: "Zero to One"
   score: 5
   year: 2018
@@ -165,7 +199,7 @@
   year: 2018
 - name: "The BFG"
   score: 4
-  year: 2018  
+  year: 2018
 - name: "The Tipping Point"
   score: 4
   year: 2018
@@ -342,7 +376,7 @@
 - name: The Gate Thief
   score: 5
   year: 2016
-  thoughts: Book 2 in the series. 
+  thoughts: Book 2 in the series.
 - name: Creativity, Inc.
   score: 5
   year: 2016
@@ -363,7 +397,7 @@
   score: 5
   year: 2016
   thoughts: A story about traveling through space and time using cupboards. I liked the idea of the story, but not necessarily the story itself.
-- name: "\"A\" is for Alibi (Sue Grafton)"
+- name: '"A" is for Alibi (Sue Grafton)'
   score: 3
   year: 2016
   thoughts: Prett blah murder mystery book.
@@ -374,7 +408,7 @@
 - name: The Fifth Wave
   score: 6
   year: 2016
-  thoughts: Fun book that examines what if an alien invasion didn't come like the movies portray it with fighter jets and lots of bombs? 
+  thoughts: Fun book that examines what if an alien invasion didn't come like the movies portray it with fighter jets and lots of bombs?
 - name: The Tales of Beedle the Bard
   score: 5
   year: 2016
@@ -382,7 +416,7 @@
 - name: Escape from Mr. Lemoncello's Library
   score: 4
   year: 2016
-  thoughts: Somewhat of a Charlie and the Chocolate factory knock-off. A tad too childish. 
+  thoughts: Somewhat of a Charlie and the Chocolate factory knock-off. A tad too childish.
 - name: Animal Farm
   score: 5
   year: 2016
